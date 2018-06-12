@@ -1,14 +1,14 @@
 {
-    "statusPage": "https://stats.uptimerobot.com",
-    "alerterName": "Uptime Robot",
-    "alertName": "Uptime Robot Alert",
+    "statusPage": "https://status.excaliburnode.host/",
+    "alerterName": "ExcaliburNode",
+    "alertName": "ExcaliburNode Alert",
     "alertDescription": "Uptime Robot notification",
     "favicon": "https://uptimerobot.com/assets/ico/favicon.ico",
     "thumbail": "https://pbs.twimg.com/profile_images/453444308650061824/G22d2Q6n_400x400.png",
     "listenerPort": 3001,
     "discord": {
-        "token": "",
-        "loggingChannel": "",
-        "loggingServer": ""
+        "token": "NDU1ODkzNjUxMjU2NjM5NTA5.DgCnkQ.1WyUdYLyKt8YCaXnJ4dlf0ECVXo",
+        "loggingChannel": "454028252634415114",
+        "loggingServer": "455893017434390528"
     }
 }
